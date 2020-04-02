@@ -22,3 +22,21 @@ Programación en C ,Clase 03 funciones
 -7 subir al repositorio WEBs
 
 (git push)
+
+
+
+
+resumen
+
+clonar : git clone mi-repo
+
+
+iterativamente
+
+    (haces cambios en archivos)
+    1-git add. (agrega archivos y cambios)
+    2-git commit -m "el mensaje" (toma instantanea del archivo)
+    
+
+para subir : 
+    3-git push
